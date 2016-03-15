@@ -1,4 +1,4 @@
 {
-  "gitbook":"latest",
-  "plugins": ["plantuml"]
+  "gitbook":"2.x.x",
+  "plugins": ["puml"]
 }
